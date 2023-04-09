@@ -12,4 +12,13 @@
 https://youtu.be/8brmxcX7hmI
 
 ### Gambar
-![Gambar](https://github.com/hadisptr/gambar/blob/main/laravel.png)
+
+
+#### *Login
+![Login](https://github.com/hadisptr/gambar/blob/main/laravel-login.png)
+
+#### *Halaman Utama Chirps
+![Chirps](https://github.com/hadisptr/gambar/blob/main/laravel-halaman%20utama%20chirps.png)
+
+#### *Halaman Update Chirps
+![](https://github.com/hadisptr/gambar/blob/main/laravel-halaman%20update.png)
